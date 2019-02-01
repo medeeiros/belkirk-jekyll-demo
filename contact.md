@@ -6,6 +6,10 @@ heading: Contact Belkirk Collegeasda
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 sub_heading: something interesting
+services:
+- heading: sadd
+  description: asdasd
+  icon: "/uploads/2017/11/13/health.png"
 menu:
   navigation:
     identifier: _contact
